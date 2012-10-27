@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/myDSL.feature_1.0.0.qualifier.jar" id="myDSL.feature" version="1.0.0.qualifier">
+      <category name="github"/>
+   </feature>
+   <category-def name="github" label="github"/>
+</site>
