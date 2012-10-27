@@ -10,7 +10,7 @@ git:https://github.com/DevBoost/BuildBoost.git!Extensions/UpdateSite/
  
  
 //Only dependencies without the rootRepository ->duplicate target exception
-//git:https://github.com/FunThomas424242/com.emftext.language.myDSL.git
+//git:https://github.com/FunThomas424242/myDSL.parent.git
 
 // EMFText
 git:https://github.com/DevBoost/EMFText.git!Core/Access/
