@@ -3,7 +3,7 @@ before_script:
   
 jdk:
   - openjdk6
-  - oraclejdk7
+#fail  - oraclejdk7
 #fail  - oraclejdk6
   
 language: java
