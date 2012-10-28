@@ -1,5 +1,9 @@
 before_script:
   - wget -N http://buildboost.org/build.xml
   
+jdk:
+  - openjdk6
+  - oraclejdk6
+  
 language: java
 script: "ant -DrootRepository='git:https://github.com/FunThomas424242/myDSL.parent.git'"
