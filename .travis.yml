@@ -7,4 +7,4 @@ jdk:
 #fail  - oraclejdk6
   
 language: java
-script: "ant -DrootRepository='git:https://github.com/FunThomas424242/myDSL.parent.git'"
+script: "ant -DrootRepository='git:https://github.com/FunThomas424242/myDSL.example.git'"
