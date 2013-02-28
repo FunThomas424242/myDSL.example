@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/myDSL.feature_1.0.0.qualifier.jar" id="myDSL.feature" version="1.0.0.qualifier">
+      <category name="funthomas424242dsl"/>
+      <category name="funthomas424242"/>
+   </feature>
+   <category-def name="funthomas424242dsl" label="DSLs">
+      <description>
+         Features contains a DSL project founded by FunThomas424242.
+      </description>
+   </category-def>
+   <category-def name="funthomas424242" label="FunThomas424242">
+      <description>
+         All features owned by FunThomas424242.
+      </description>
+   </category-def>
+</site>
